@@ -26,3 +26,5 @@ npm start
 For sample react app: npm start
 A page with localhost:3000 will open 
 
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://legacy.reactjs.org/docs/hooks-state.html (deleting)
